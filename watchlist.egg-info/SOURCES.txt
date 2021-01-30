@@ -1,0 +1,7 @@
+setup.py
+watchlist/__init__.py
+watchlist.egg-info/PKG-INFO
+watchlist.egg-info/SOURCES.txt
+watchlist.egg-info/dependency_links.txt
+watchlist.egg-info/requires.txt
+watchlist.egg-info/top_level.txt
